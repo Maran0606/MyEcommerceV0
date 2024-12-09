@@ -1,0 +1,30 @@
+.dropzone-dark {
+    background-color: #f8f9fa; /* Light gray background */
+    border: 2px dashed #a3a3a3; /* Dashed blue border */
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+.dropzone-dark:hover {
+    background-color: #e9ecef; /* Slightly darker gray on hover */
+}
+.dz-button {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #7e7e7e;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.dz-button:hover {
+    text-decoration: underline;
+}
+
+.card-border-title,.card-title{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+
